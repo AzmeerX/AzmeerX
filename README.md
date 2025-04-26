@@ -26,7 +26,7 @@
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Azmeer__?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/Azmeer__)
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AzmeerX&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <br/>
