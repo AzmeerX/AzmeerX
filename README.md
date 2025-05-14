@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm AzmeerX 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Backend+Enthusiast;Dark+Humor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Backend+Enthusiast;" alt="Typing SVG" />
 </p>
 
 ---
@@ -29,6 +29,5 @@
 ## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AzmeerX&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AzmeerX&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
+
